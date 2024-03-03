@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/rrofly/rrofly/blob/main/images/42-Lisboa_CMYK_Horizontal.jpg" height=450/>
+    <img src="https://github.com/rrofly/rrofly/blob/main/images/42-Lisboa_CMYK_Horizontal.jpg" height=200/>
 </p>
 
 <p align="center">
